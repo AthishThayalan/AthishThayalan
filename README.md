@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Athish Thayalan
+
+I am a first-class graduate from the University of Nottingham with a strong background in Mathematics and Economics. Passionate about leveraging analytical skills in technology and coding to contribute to the technological revolution. Excel in team-based activities, with a focus on interpersonal skills and relationship-building. Highly coachable and eager to pursue a challenging career that enhances problem-solving abilities. When I'm not coding you'll find me at the gym 🏋🏿 or enjoying a cup of coffee ☕.
+
+- 🔭 I’m currently undertaking training as a Full-stack Software Engineer at _nology.
+
+  Check out my portfolio : https://athishthayalan.github.io/portfolio/
