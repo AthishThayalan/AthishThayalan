@@ -4,7 +4,7 @@ a[name="blue"] {
     color: blue;
 }
 
-I am a **first-class graduate from the University of Nottingham in [Mathematics and Economics]**. Passionate about leveraging analytical skills in technology and coding to contribute to the technological revolution. Excel in team-based activities, with a focus on interpersonal skills and relationship-building. Highly coachable and eager to pursue a challenging career that enhances problem-solving abilities.
+I am a **first-class graduate from the University of Nottingham in **Mathematics and Economics**. Passionate about leveraging analytical skills in technology and coding to contribute to the technological revolution. Excel in team-based activities, with a focus on interpersonal skills and relationship-building. Highly coachable and eager to pursue a challenging career that enhances problem-solving abilities.
 
 ## About Me:
 - 🔭 I’m currently undertaking training as a Full-stack Software Engineer at _nology.
