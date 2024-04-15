@@ -10,7 +10,7 @@ I am a **first-class graduate from the University of Nottingham in Mathematics a
 - ⚡ Fun fact: When I'm not coding, you'll find me hitting the gym 🏋🏿 or enjoying a cup of coffee ☕.
 
 ## Portfolio:
-Check out my portfolio to see some of my projects and more about me: [Portfolio](https://athishthayalan.github.io/portfolio/)
+Check out my portfolio to see some of my projects and more about me: [Portfolio](https://athishthayalan.github.io/personal-portfolio)
 
 ## How to Reach Me:
 Feel free to reach out to me via [email](mailto:tathish@hotmail.co.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/athish-thayalan-1182b81b7/).
